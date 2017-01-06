@@ -13,6 +13,7 @@ organized? How would branches help?
 	if you're not sure whether to stay on master directory to make commit, you can use branch for side projects or side changes.
 
 How do the diagrams help you visualize the branch structure?
+	it shows what existing changes are made by remote and your own commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
