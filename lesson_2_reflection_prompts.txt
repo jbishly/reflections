@@ -1,7 +1,10 @@
+Add lesson 2 reflections
+
 What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area is prepared for a commit to the repository but it can be reset
 
 How can you use the staging area to make sure you have one commit per logical
 change?
